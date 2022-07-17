@@ -8,4 +8,8 @@ push commit
 
 pull change
 
+
 stash change
+
+local stash change
+
