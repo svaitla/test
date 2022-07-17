@@ -7,3 +7,5 @@ branch commit
 push commit
 
 pull change
+
+stash change
