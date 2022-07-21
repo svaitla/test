@@ -3,3 +3,13 @@ test
 test1
 
 branch commit
+
+push commit
+
+pull change
+
+
+stash change
+
+local stash change
+
